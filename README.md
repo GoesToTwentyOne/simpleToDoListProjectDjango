@@ -1,24 +1,25 @@
-User Authentication:
+Key Features:
 
-User Registration and Login
-User Profiles for Personalization
-Task Management:
+1. **User Authentication:**
+   - User Registration and Login
+   - User Profiles for Personalization
 
-Create, Edit, and Delete Tasks
-Set Task Due Dates and Priorities
-Assign Tasks to Categories or Projects
-Task Status Tracking:
+2. **Task Management:**
+   - Create, Edit, and Delete Tasks
+   - Set Task Due Dates and Priorities
+   - Assign Tasks to Categories or Projects
 
-Mark Tasks as Completed or Incomplete
-Display Tasks by Status (e.g., To-Do, Completed)
-Task Reminders:
+3. **Task Status Tracking:**
+   - Mark Tasks as Completed or Incomplete
+   - Display Tasks by Status (e.g., To-Do, Completed)
 
-Set Reminders and Due Dates
-Task Sorting and Filtering:
+4. **Task Reminders:**
+   - Set Reminders and Due Dates
 
-Sorting Options for Tasks by Due Date, Priority, or Category
-Filtering Options to View Specific Tasks
-Task Prioritization:
+5. **Task Sorting and Filtering:**
+   - Sorting Options for Tasks by Due Date, Priority, or Category
+   - Filtering Options to View Specific Tasks
 
-Set Task Priorities (from 0 to 8)
-Sorting Options for Tasks by Priority Levels
+6. **Task Prioritization:**
+   - Set Task Priorities (from 0 to 8)
+   - Sorting Options for Tasks by Priority Levels
