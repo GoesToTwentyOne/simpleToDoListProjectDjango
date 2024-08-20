@@ -116,6 +116,19 @@ TIME_ZONE = 'UTC'
 USE_I18N = True
 
 USE_TZ = True
+# Customize
+import socket
+import sys
+
+# Get the hostname of the current machine
+LOCAL_HOSTNAME = socket.gethostname()
+
+# Define allowed hostnames
+ALLOWED_HOSTNAMES = ['GoesToTwentyOne', 'localhost', '127.0.0.1']
+
+# Check if the current hostname is allowed
+if LOCAL_HOSTNAME not in ALLOWED_HOSTNAMES:
+    sys.exit("Unauthorized machine. Please contact hnihadgo75@gmail.com")
 
 
 # Static files (CSS, JavaScript, Images)
